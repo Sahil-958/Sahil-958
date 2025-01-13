@@ -28,17 +28,6 @@ I'm a passionate tech enthusiast and developer with a love for creating, experim
 
 ---
 
-## 🧩 Projects
-
-Here are some of the projects I've been working on (and fortunately made a repo of):
-
-- **Content Aware Renaming Scripts**: A Bash script that utilizes the Microsoft Vision API to rename images based on their content.
-- **PIXRULER**: A simple screen ruler built with Python and GTK, inspired by xscope and Windows PowerToys.
-- **Asetishot**: A Bash script that joins similar images to create a single seamless image using ImageMagick.
-- **CRUD Productivity App**: A productivity application developed in Flutter, utilizing Supabase, with Google and Microsoft login integration.
-
----
-
 ## 🎉 A Few Fun Facts
 
 - I type at 80wpm with 98% accuracy.

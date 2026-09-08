@@ -1,28 +1,44 @@
 # Hi, I'm Sahil 👋
 
-I'm a passionate tech enthusiast and developer with a love for creating, experimenting, and solving problems through code. My journey began with a B.Sc. (Hons.) in IT, where I delved into microprocessors, programming, and networking. Currently, as an MCA student, I'm expanding my expertise in frameworks, full-stack development, and automation. I'm also learning full-stack development through The Odin Project.
+**Technical Systems, Automation & Support Engineer** with a passion for Linux systems, pragmatic automation, AI-native workflows, and rapid technical debugging. 
 
-## 🚀 What Drives Me
+I build and maintain self-hosted cloud infrastructure, write intelligent desktop & CLI utilities, automate complex web pipelines, and bridge developer feedback into rock-solid software fixes.
 
-- **Automation**: Developing scripts and tools to streamline workflows.
-- **Mobile Development**: Building intuitive, responsive apps with Flutter.
-- **Linux Power User**: Creating solutions with shell scripting, GTK, and open-source tools.
-- **Data Insights**: Using Python for web scraping and scripting to transform raw data into actionable insights.
+---
 
-## 🛠️ My Development Setup
+### ⚡ What I Do Best
+- 🐧 **Linux & Self-Hosted Systems:** 24/7 ARM64 cloud server administrator, Arch Linux power user, container orchestration (Docker/Podman), systemd services, Caddy reverse proxy, and WireGuard networking.
+- 🛠️ **Practical Systems & CLI Utilities:** Built native desktop tools like `pixruler` (intelligent screen ruler with OpenCV Canny edge detection), `content_aware_renaming` (automated image tagging via Vision APIs), and telemetry agents.
+- 🤖 **AI-Native Tooling & Automation:** Creating high-leverage workflows with Model Context Protocol (MCP), agentic tool-calling, Playwright web automation, and Python/FastAPI backends.
+- 🔍 **Root Cause Diagnostics & Support:** 1 year of production experience debugging failing microservices, token lifecycles, API rate limits, and e-procurement pipelines at Fusionpact Technologies.
 
-- **Operating System**: Arch Linux (embracing customization at its finest 🐧)
-- **Editor**: Neovim (keyboard-driven for peak efficiency 🚀)
-- **Languages & Tools**: Python, C++, Java, Shell scripting, React, Angular, Laravel, and more.
+---
 
-## 🎯 Current Focus
+### 🧰 Technical Arsenal
 
-- Advanced shell scripting and Linux-based development.
-- Enhancing full-stack expertise with modern frameworks via The Odin Project.
+```
+Languages & Scripts : Python, Bash / Shell, JavaScript, TypeScript, C++, Lua, SQL
+Infrastructure      : Linux (Arch / Ubuntu aarch64), Systemd, Docker, Podman, Caddy, WireGuard, SSH
+Backend & APIs      : FastAPI, Node.js, Express, REST APIs, Webhooks, WebSockets
+Databases & Cache   : PostgreSQL, pgvector, MongoDB, Redis, SQLite
+AI & Automation     : MCP Protocols, Claude Skills, Agno, Playwright, OpenCV, Telemetry
+```
 
-## 🎉 A Few Fun Facts
+---
 
-- I type at 80wpm with 98% accuracy.
-- Experimenting with window managers and desktop environments is my jam.
-- I'm an advocate for FOSS, custom ROMs, and de-Googled devices.
-- Fitness is a non-negotiable part of my day.
+### 🌟 Featured Highlights
+
+| Repository / Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[`pixruler`](https://github.com/Sahil-958/pixruler)** | Intelligent Linux screen ruler with real-time OpenCV Canny edge detection & Vim keybindings. | `Python`, `OpenCV`, `Wayland/X11` |
+| **[`dots`](https://github.com/Sahil-958/dots)** | Keyboard-driven personal Arch Linux environment, window managers, and Neovim configs. | `Shell`, `Lua`, `Linux` |
+| **[`content_aware_renaming`](https://github.com/Sahil-958/content_aware_renaming)** | Bash automation pipeline utilizing Computer Vision APIs to intelligently categorize and rename images. | `Shell`, `REST API`, `Automation` |
+| **[`telemetry-agent`](https://github.com/Sahil-958/telemetry-agent)** | Lightweight host telemetry and metrics reporting agent. | `Python`, `Systems Monitoring` |
+| **[`seamless_screenshots`](https://github.com/Sahil-958/seamless_screenshots)** | C++ utility leveraging ImageMagick to join screenshots into continuous images. | `C++`, `ImageMagick`, `Shell` |
+
+---
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/sawhill](https://linkedin.com/in/sawhill)
+- 📧 **Email:** [sahil95881@gmail.com](mailto:sahil95881@gmail.com)
+- 📍 **Location:** Haryana / Delhi NCR, India (Remote / EMEA & APAC Timezones)

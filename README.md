@@ -33,7 +33,7 @@ AI & Automation     : MCP Protocols, Claude Skills, Agno, Playwright, OpenCV, Te
 | **[`pixruler`](https://github.com/Sahil-958/pixruler)** | Intelligent Linux screen ruler with real-time OpenCV Canny edge detection & Vim keybindings. | `Python`, `OpenCV`, `Wayland/X11` |
 | **[`dots`](https://github.com/Sahil-958/dots)** | Keyboard-driven personal Arch Linux environment, window managers, and Neovim configs. | `Shell`, `Lua`, `Linux` |
 | **[`content_aware_renaming`](https://github.com/Sahil-958/content_aware_renaming)** | Bash automation pipeline utilizing Computer Vision APIs to intelligently categorize and rename images. | `Shell`, `REST API`, `Automation` |
-| **[`telemetry-agent`](https://github.com/Sahil-958/telemetry-agent)** | Lightweight host telemetry and metrics reporting agent. | `Python`, `Systems Monitoring` |
+| **[`lazyvim`](https://github.com/Sahil-958/lazyvim)** | Custom-tuned Neovim development environment tailored for peak productivity. | `Lua`, `Neovim`, `Developer Tools` |
 | **[`seamless_screenshots`](https://github.com/Sahil-958/seamless_screenshots)** | C++ utility leveraging ImageMagick to join screenshots into continuous images. | `C++`, `ImageMagick`, `Shell` |
 
 ---

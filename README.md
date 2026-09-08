@@ -30,6 +30,7 @@ AI & Automation     : MCP Protocols, Claude Skills, Agno, Playwright, OpenCV, Te
 
 | Repository / Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[`caps`](https://github.com/Sahil-958/caps)** | High-performance Deep Learning OCR & Neural CAPTCHA Solver with sub-10ms CPU ONNX inference. | `PyTorch`, `ONNX`, `Python`, `CNN+BiLSTM` |
 | **[`pixruler`](https://github.com/Sahil-958/pixruler)** | Intelligent Linux screen ruler with real-time OpenCV Canny edge detection & Vim keybindings. | `Python`, `OpenCV`, `Wayland/X11` |
 | **[`dots`](https://github.com/Sahil-958/dots)** | Keyboard-driven personal Arch Linux environment, window managers, and Neovim configs. | `Shell`, `Lua`, `Linux` |
 | **[`content_aware_renaming`](https://github.com/Sahil-958/content_aware_renaming)** | Bash automation pipeline utilizing Computer Vision APIs to intelligently categorize and rename images. | `Shell`, `REST API`, `Automation` |
